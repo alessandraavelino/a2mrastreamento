@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: white;
+    background-color: #1F222B;
 }
 
 .container {
@@ -24,10 +24,9 @@ body {
 }
 
 p {
-    color: #2f94f2;
+    color: #fff;
     padding-top: 10px;
     letter-spacing: 2px;
-    font-weight: bold;
 }
 
 .gps_ring_container {
